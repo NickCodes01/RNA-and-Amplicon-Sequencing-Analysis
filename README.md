@@ -18,7 +18,7 @@ High-quality alignment and minimal errors in preprocessing.
 Top expressed genes and summary statistics highlight expected biological patterns.
 
 
-3. Amplicon Sequencing Analysis
+2. Amplicon Sequencing Analysis
 This project focuses on variant detection from targeted genomic loci using amplicon sequencing data.
 
 The workflow includes:
