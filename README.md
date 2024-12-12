@@ -2,7 +2,7 @@
 This repository contains the analysis pipeline, results, and summaries for two distinct sequencing projects: RNA Sequencing and Amplicon Sequencing. These projects were conducted to explore gene expression level analysis and variant calling analysis, respectively.
 
 Projects Overview:
-1. RNA-Seq Analysis
+1. RNA-Seq Analysis:
 This project involves processing RNA sequencing data to quantify gene expression levels.
 
 The workflow includes:
@@ -18,7 +18,7 @@ High-quality alignment and minimal errors in preprocessing.
 Top expressed genes and summary statistics highlight expected biological patterns.
 
 
-2. Amplicon Sequencing Analysis
+2. Amplicon Sequencing Analysis:
 This project focuses on variant detection from targeted genomic loci using amplicon sequencing data.
 
 The workflow includes:
