@@ -6,6 +6,7 @@ Projects Overview:
 This project involves processing RNA sequencing data to quantify gene expression levels.
 
 The workflow includes:
+
 Aligning RNA-Seq reads to the human reference genome using HISAT2.
 Converting alignment files from SAM to BAM format and sorting for downstream analyses.
 Generating a gene expression count matrix using featureCounts.
@@ -22,6 +23,7 @@ Top expressed genes and summary statistics highlight expected biological pattern
 This project focuses on variant detection from targeted genomic loci using amplicon sequencing data.
 
 The workflow includes:
+
 Alignment of reads to the human reference genome using BWA-MEM2.
 Variant calling using FreeBayes to identify single nucleotide polymorphisms (SNPs) and small insertions/deletions (indels).
 High-quality variant filtration based on QUAL and DP metrics.
